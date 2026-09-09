@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/igor/MyProjects/project1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++11 -o CMakeFiles/HelloWorld.dir/main.cpp.o -c /home/igor/MyProjects/project1/main.cpp",
+  "file": "/home/igor/MyProjects/project1/main.cpp",
+  "output": "CMakeFiles/HelloWorld.dir/main.cpp.o"
+}
+]
