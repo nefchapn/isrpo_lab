@@ -65,6 +65,10 @@ class TriangleTestCase(unittest.TestCase):
         res = is_triangle(1, 2, 5)
         self.assertFalse(res)
 
+    def test_triangle_perimeter_equal_sides1(self):
+        res = triangle_perimeter(5, 5, 5)
+        self.assertEqual(res, 1)
+
 
 class CircleTestCase(unittest.TestCase):
 
